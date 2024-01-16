@@ -11,6 +11,8 @@ The biographical information is fetched from Wikipedia to provide context about 
 - [Installation](#installation)
 - [License](#license)
 
+## Demo
+https://clematilde.github.io/vue-women/
 
 ## Features
 
@@ -20,17 +22,14 @@ The biographical information is fetched from Wikipedia to provide context about 
 - Easy navigation through the collection.
 
 ## Technologies Used
-Vue.js 3
-Vue Router
-Axios
-Ruby
-HTML5, CSS3, Bootstrap 5
+- Vue.js 3
+- Vue Router
+- Axios
+- Ruby
+- HTML5, CSS3, Bootstrap 5
 
 ## Installation
 - Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/vue-women-project.git
 
 - Install dependencies:
 
